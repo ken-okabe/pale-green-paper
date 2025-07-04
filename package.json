@@ -1,0 +1,22 @@
+{
+  "name": "pale-green-paper",
+  "displayName": "pale-green-paper",
+  "description": "Inspired by Green Paper theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "author": "Ken Okabe",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pale Green Paper",
+        "uiTheme": "vs",
+        "path": "./themes/Pale Green Paper-color-theme.json"
+      }
+    ]
+  }
+}
