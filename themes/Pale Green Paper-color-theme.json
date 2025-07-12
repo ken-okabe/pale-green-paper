@@ -43,10 +43,10 @@
 		"tab.hoverForeground": "#111111",
 		"tab.inactiveForeground": "#595959",
 		"panel.border": "#657b69",
-		"sideBar.background": "#E4ECDC",
+		"sideBar.background": "#E4ECDC", // サイドバーの背景色を元に戻す
 		"sideBarTitle.foreground": "#555555",
 		"titleBar.activeBackground": "#E4ECDC",
-		"activityBar.background": "#EDF8EE", // アクティビティバーの背景色を薄い緑に変更
+		"activityBar.background": "#c2ddc2", // アクティビティバーの背景色をさらに少し薄く調整
 		"activityBar.foreground": "#a2d2b1", // アクティビティバーのアイコン色を元に戻す
 		"activityBar.inactiveForeground": "#393733", // 非アクティブなアイコン色を元に戻す
 		"activityBarBadge.background": "#98a099",

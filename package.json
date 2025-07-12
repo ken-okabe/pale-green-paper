@@ -3,7 +3,7 @@
   "displayName": "pale-green-paper",
   "description": "Inspired by Green Paper theme",
   "version": "0.0.1",
-  "publisher": "ken-okabe",
+  "publisher": "KenOkabe",
   "engines": {
     "vscode": "^1.101.0"
   },
