@@ -2,7 +2,7 @@
   "name": "pale-green-paper",
   "displayName": "pale-green-paper",
   "description": "Inspired by Green Paper theme",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "publisher": "KenOkabe",
   "engines": {
     "vscode": "^1.101.0"
